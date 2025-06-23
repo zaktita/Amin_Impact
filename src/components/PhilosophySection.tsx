@@ -1,5 +1,4 @@
 import { Globe, Target, Users, Lightbulb, ArrowRight } from "lucide-react";
-import { Button } from "./ui/button";
 
 export function PhilosophySection() {
   return (
@@ -43,7 +42,7 @@ export function PhilosophySection() {
             
             <a className="btn-primary"
             href="https://www.aminworldwide.com/our-story/"
-            
+
             
             >
               Learn More About Our Mission

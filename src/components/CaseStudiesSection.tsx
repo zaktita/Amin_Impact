@@ -1,5 +1,4 @@
 import React from "react";
-import { Button } from "./ui/button";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "./ui/carousel";
 import { ExternalLink, TrendingUp, Award, Eye, Globe, Users, Heart, Shield, Waves } from "lucide-react";
 

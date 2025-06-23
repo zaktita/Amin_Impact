@@ -1,4 +1,3 @@
-import { Button } from "./ui/button";
 import { Download, FileText, Send, PenTool, CheckCircle, Star, Award } from "lucide-react";
 
 export function CEOLetterSection() {

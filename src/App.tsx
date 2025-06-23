@@ -5,7 +5,6 @@ import { CEOLetterSection } from "./components/CEOLetterSection";
 import { CaseStudiesSection } from "./components/CaseStudiesSection";
 
 import { JoinImPactSection } from "./components/JoinImPactSection";
-import { Footer } from "./components/Footer";
 import { NewHeroSection } from "./components/NewHeroSection";
 
 export default function App() {
@@ -17,7 +16,6 @@ export default function App() {
       <CEOLetterSection />
       <CaseStudiesSection />
       <JoinImPactSection />
-      <Footer />
     </div>
   );
 }

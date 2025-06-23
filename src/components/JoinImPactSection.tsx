@@ -1,30 +1,9 @@
-import { Button } from "./ui/button";
-import { ArrowRight, FileText, Mail, Users, Globe, Sparkles, CheckCircle, Star } from "lucide-react";
+import { ArrowRight, FileText, Mail } from "lucide-react";
 
 export function JoinImPactSection() {
-  const benefits = [
-    "Access to global ESG network",
-    "Collaborative sustainability projects",
-    "Knowledge sharing platform",
-    "Impact measurement tools"
-  ];
+ 
 
-  const actions = [
-    {
-      icon: <FileText className="w-6 h-6" />,
-      title: "Share Your Impact",
-      description: "Submit case studies and inspire the global community",
-      cta: "Share Your Story",
-      featured: false
-    },
-    {
-      icon: <Users className="w-6 h-6" />,
-      title: "Join Our Network",
-      description: "Connect with sustainability leaders worldwide",
-      cta: "Join Network",
-      featured: true
-    }
-  ];
+ 
 
   return (
     <section className="section bg-gradient-to-br from-[var(--background)] via-[var(--background-secondary)] to-[var(--background-tertiary)]">

@@ -1,4 +1,4 @@
-import { BarChart, TrendingUp, Users, Zap, ShoppingCart, Heart } from "lucide-react";
+import { BarChart, TrendingUp, Users, ShoppingCart, Heart } from "lucide-react";
 import { Button } from "./ui/button";
 
 export function KeyStatsSection() {

@@ -1,5 +1,4 @@
-import { Button } from "./ui/button";
-import { ArrowRight, Globe, Target, Users, Leaf, Sparkles, TrendingUp, Waypoints } from "lucide-react";
+import { ArrowRight, Globe, Target, Users, Leaf, Sparkles } from "lucide-react";
 
 export function NewHeroSection() {
   return (
